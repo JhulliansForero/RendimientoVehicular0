@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RendimientoVehicular0.iml" filepath="$PROJECT_DIR$/RendimientoVehicular0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica/logica.iml" filepath="$PROJECT_DIR$/logica/logica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rendimiento/rendimiento.iml" filepath="$PROJECT_DIR$/rendimiento/rendimiento.iml" />
+    </modules>
+  </component>
+</project>
